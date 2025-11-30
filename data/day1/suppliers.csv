@@ -1,0 +1,9 @@
+SupplierID,SupplierName,SupplierCategory,City,IsActive
+101,BeanRoasters Co.,Coffee Beans,Toronto,True
+102,SweetTreats Bakery,Bakery,Mississauga,True
+103,MapleMilk Dairy,Milk & Dairy,Brampton,True
+104,CupTech Equipment,Equipment,Toronto,True
+105,FreshBrew Logistics,Logistics,Oakville,True
+106,GoldenCups Packaging,Packaging,Mississauga,True
+107,CityFresh Produce,Fruits & Veg,Toronto,True
+108,NorthStar Dairy,Milk & Dairy,Brampton,True

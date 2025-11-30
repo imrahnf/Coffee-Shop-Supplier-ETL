@@ -1,0 +1,14 @@
+supplier_key,supplier_id,supplier_name,supplier_category,city,email,delivery_frequency,notes,is_active,source_date,last_updated_at
+1,101,BeanRoasters Co.,Coffee Beans,Toronto,contact@beanroasters.com,Weekly,Premium arabica supplier,False,2025-01-01,2025-11-22T16:12:22
+2,102,SweetTreats Bakery,Bakery,Mississauga,info@sweettreats.ca,Daily,Same as before,True,2025-01-01,2025-11-22T16:12:22
+3,103,MapleMilk Dairy,Milk & Dairy,Brampton,sales@maplemilk.ca,Twice-Weekly,Local dairy partner,False,2025-01-01,2025-11-22T16:12:22
+4,104,CupTech Equipment,Equipment,Toronto,support@cuptech.com,Monthly,Same as before,True,2025-01-01,2025-11-22T16:12:22
+5,105,FreshBrew Logistics,Logistics,Oakville,info@freshbrew.net,Weekly,Same as before,True,2025-01-01,2025-11-22T16:12:22
+6,106,GoldenCups Packaging,Packaging,Mississauga,hello@goldencups.com,Monthly,Cup and lid packaging,False,2025-01-01,2025-11-22T16:12:22
+7,107,CityFresh Produce,Fruits & Veg,Toronto,contact@cityfresh.ca,Daily,Fresh fruits and vegetables,False,2025-01-01,2025-11-22T16:12:26
+8,108,NorthStar Dairy,Milk & Dairy,Brampton,info@northstar.ca,Weekly,Still active,True,2025-01-01,2025-11-22T16:12:22
+9,109,CoffeeExpress,Coffee Beans,Toronto,fast@coffeeexpress.ca,Daily,New express coffee supplier,True,2025-01-02,2025-11-22T16:12:08
+10,110,MorningOven Bakery,Bakery,Milton,hello@morningoven.ca,Daily,New bakery partner,True,2025-01-02,2025-11-22T16:12:08
+11,101,BeanRoasters Company,Coffee Beans,Toronto,contact@beanroasters.com,Weekly,Name updated and expanded offering,True,2025-01-02,2025-11-22T16:12:22
+12,103,MapleMilk Dairy,Milk & Dairy,Toronto,sales@maplemilk.ca,Weekly,Changed delivery frequency,True,2025-01-02,2025-11-22T16:12:22
+13,106,GoldenCups Packaging,Packaging & Branding,Mississauga,hello@goldencups.com,Monthly,New branding partner,True,2025-01-02,2025-11-22T16:12:22
