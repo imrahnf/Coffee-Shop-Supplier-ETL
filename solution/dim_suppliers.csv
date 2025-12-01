@@ -1,1 +1,9 @@
-supplier_key,supplier_id,supplier_name,supplier_category,city,email,delivery_frequency,notes,is_active,source_date,last_updated_at
+supplier_key,supplier_id,supplier_name,supplier_category,city,is_active,email,delivery_frequency,notes,source_date,last_updated_at
+1,101,BeanRoasters Co.,Coffee Beans,Toronto,True,contact@beanroasters.com,Weekly,Premium arabica supplier,,2025-11-30T20:05:22
+2,102,SweetTreats Bakery,Bakery,Mississauga,True,info@sweettreats.ca,Daily,Specializes in pastries,,2025-11-30T20:05:22
+3,103,MapleMilk Dairy,Milk & Dairy,Brampton,True,sales@maplemilk.ca,Twice-Weekly,Local dairy partner,,2025-11-30T20:05:22
+4,104,CupTech Equipment,Equipment,Toronto,True,support@cuptech.com,Monthly,Provides espresso machines,,2025-11-30T20:05:22
+5,105,FreshBrew Logistics,Logistics,Oakville,True,info@freshbrew.net,Weekly,Cold chain logistics,,2025-11-30T20:05:22
+6,106,GoldenCups Packaging,Packaging,Mississauga,True,hello@goldencups.com,Monthly,Cup and lid packaging,,2025-11-30T20:05:22
+7,107,CityFresh Produce,Fruits & Veg,Toronto,True,contact@cityfresh.ca,Daily,Fresh fruits and vegetables,,2025-11-30T20:05:22
+8,108,NorthStar Dairy,Milk & Dairy,Brampton,True,info@northstar.ca,Weekly,Backup dairy supplier,,2025-11-30T20:05:22
