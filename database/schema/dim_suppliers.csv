@@ -1,1 +1,18 @@
 supplier_key,supplier_id,supplier_name,supplier_category,city,is_active,email,delivery_frequency,notes,source_date,last_updated_at
+1,101,BeanRoasters Co.,Coffee Beans,Toronto,False,contact@beanroasters.com,Weekly,Premium arabica supplier,2025-01-01,2025-12-08T22:14:29
+2,102,SweetTreats Bakery,Bakery,Mississauga,True,info@sweettreats.ca,Daily,Same as before,2025-01-01,2025-12-08T22:14:29
+3,103,MapleMilk Dairy,Milk & Dairy,Brampton,False,sales@maplemilk.ca,Twice-Weekly,Local dairy partner,2025-01-01,2025-12-08T22:14:29
+4,104,CupTech Equipment,Equipment,Toronto,True,support@cuptech.com,Monthly,Now offers maintenance service,2025-01-01,2025-12-08T22:14:31
+5,105,FreshBrew Logistics,Logistics,Oakville,True,info@freshbrew.net,Weekly,Same as before,2025-01-01,2025-12-08T22:14:29
+6,106,GoldenCups Packaging,Packaging,Mississauga,False,hello@goldencups.com,Monthly,Cup and lid packaging,2025-01-01,2025-12-08T22:14:29
+7,107,CityFresh Produce,Fruits & Veg,Toronto,False,contact@cityfresh.ca,Daily,Fresh fruits and vegetables,2025-01-01,2025-12-08T22:14:29
+8,108,NorthStar Dairy,Milk & Dairy,Brampton,False,info@northstar.ca,Weekly,Still active,2025-01-01,2025-12-08T22:14:31
+9,109,CoffeeExpress,Coffee Beans,Toronto,True,fast@coffeeexpress.ca,Daily,Same as before,2025-01-02,2025-12-08T22:14:31
+10,110,MorningOven Bakery,Bakery,Milton,False,hello@morningoven.ca,Daily,New bakery partner,2025-01-02,2025-12-08T22:14:31
+11,101,BeanRoasters Company,Coffee Beans,Toronto,False,contact@beanroasters.com,Weekly,Name updated and expanded offering,2025-01-02,2025-12-08T22:14:31
+12,103,MapleMilk Dairy,Milk & Dairy,Toronto,False,sales@maplemilk.ca,Weekly,Changed delivery frequency,2025-01-02,2025-12-08T22:14:31
+13,106,GoldenCups Packaging,Packaging & Branding,Mississauga,True,hello@goldencups.com,Monthly,Same as before,2025-01-02,2025-12-08T22:14:31
+14,111,BeanRoasters USA,Coffee Beans,Buffalo,True,usa@beanroasters.com,Weekly,New US supplier,2025-01-03,2025-12-08T22:14:31
+15,101,BeanRoasters Company,Coffee Beans,Mississauga,True,contact@beanroasters.com,Weekly,Expanded delivery area,2025-01-03,2025-12-08T22:14:31
+16,108,NorthStar Dairy,Milk & Dairy,Toronto,True,info@northstar.ca,Twice-Weekly,Adjusted schedule,2025-01-03,2025-12-08T22:14:31
+17,110,MorningOven Bakery,Bakery,Milton,True,hello@morningoven.ca,Twice-Weekly,Adjusted schedule,2025-01-03,2025-12-08T22:14:31
